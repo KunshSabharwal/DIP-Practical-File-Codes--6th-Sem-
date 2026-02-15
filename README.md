@@ -8,6 +8,10 @@
 
 - Mean, Standard Deviation and Correlation for images
 
+## Practical 5 - 14/02/26
+
+- Image Smoothening Filters (Mean and Median filtering)
+
 ## Practical 2 - 29/01/26
 
 - FFT of an Image and 2-D Fourier Transform and masking using DFT
