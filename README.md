@@ -16,6 +16,10 @@
 
 - Image sharpening filters and Edge Detection using Gradient Filters
 
+## Practical 7 - 26/02/26
+
+- Image Compression by DCT, DPCM, HUFFMAN coding
+
 ## Practical 2 - 29/01/26
 
 - FFT of an Image and 2-D Fourier Transform and masking using DFT
