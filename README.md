@@ -20,6 +20,10 @@
 
 - Image Compression by DCT, DPCM, HUFFMAN coding
 
+## Practical 8 - 26/03/26
+
+- Image Restoration Techniques
+
 ## Practical 2 - 29/01/26
 
 - FFT of an Image and 2-D Fourier Transform and masking using DFT
