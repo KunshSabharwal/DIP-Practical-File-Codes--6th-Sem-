@@ -39,3 +39,55 @@
 ## Practical 10 - 26/03/26
 
 - Canny edge detection algorithms on images and comparison with other edge detection algorithms.
+
+# Digital Image Processing (DIP) Practical File – 6th Semester
+
+This repository contains the practical experiment codes and implementations for the subject **Digital Image Processing (DIP)** for the 6th Semester at **Vivekananda Institute of Professional Studies – Technical Campus**.
+
+---
+
+## 📘 Contents
+
+- Python implementation files (.ipynb / .py) covering core image processing techniques
+- Practical experiment solutions for DIP tasks and algorithms
+- Step-by-step implementation of image manipulation and enhancement methods
+- Practical report documentation for academic submission
+- Sample images and datasets used for experimentation
+
+---
+
+## 🧪 Key Experiments Covered
+
+- Image representation and basic operations
+- Image enhancement techniques (contrast, brightness, filtering)
+- Histogram processing and equalization
+- Image smoothing and sharpening filters
+- Edge detection techniques (Sobel, Canny, Prewitt)
+- Image segmentation methods
+- Morphological operations (erosion, dilation)
+- Frequency domain processing (Fourier Transform)
+- Noise addition and removal techniques
+- Color image processing
+
+---
+
+## ⚙️ Technologies Used
+
+- **Python**
+- OpenCV
+- NumPy
+- Matplotlib
+- Jupyter Notebook / VS Code
+
+---
+
+## 🧑‍💻 Author
+
+**Kunsh Sabharwal**  
+Institution: Vivekananda Institute of Professional Studies – Technical Campus
+
+---
+
+## 📌 Note
+
+This repository is intended for academic purposes and serves as a comprehensive reference for **Digital Image Processing practical implementations**, including fundamental concepts, algorithms, and real-world image analysis techniques.
